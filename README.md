@@ -8,7 +8,7 @@
 ## About me
 
 - 🌱 I am a Full Stack Web Developer
-- 🌐 Personal Portfolio : [Abhishek Jaiswar's Portfolio](https://abhishekjaiswarportfolio.netlify.app/)
+- 🌐 Personal Portfolio : [Abhishek Jaiswar's Portfolio](https://abhishekjaiswar.netlify.app/)
 - 🧑🏽‍💻 A Full Stack Web Developer at [ByteSchool](https://byteschool.in/)
 
 ## I'm a tech enthusiast who loves to learn about new things. Connect with me on LinkedIn and Twitter
