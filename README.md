@@ -1,6 +1,6 @@
-![Banner Image](./image/banner.png)
+<img src="./image/banner.png" alt="Banner Image" width="100%" />
 
-<h1 align="center">Hi, I'm Abhishek Jaiswar 👋</h1>
+<h2 align="center">Hi, I'm Abhishek&nbsp;Jaiswar 👋</h2>
 
 <p align="center">
   <a href="https://github.com/abhishekjaiswar221">
@@ -14,8 +14,6 @@
   <a href="https://x.com/abhishekjai221"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="mailto:abhishekjaiswar.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
-
----
 
 I build full-stack products that hold up at scale — enterprise dashboards crunching tens of thousands of records, real-time apps wiring together video, chat, and AI in the background, and side projects that go from idea to deployed without losing polish along the way. I care about clean state management, fast UIs, and APIs that behave exactly the way they promise to.
 
@@ -68,6 +66,6 @@ I build full-stack products that hold up at scale — enterprise dashboards crun
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
----
+<p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ⋆⋅☆⋅⋆ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
 
-<p align="center"><sub>🌱 Always learning, always building.</sub></p>
+<p align="center"><b>🌱 Always learning, always building.</b></p>
