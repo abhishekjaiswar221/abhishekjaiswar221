@@ -1,3 +1,5 @@
+<br/>
+
 <h1 align="center">Hi, I'm Abhishek&nbsp;Jaiswar 👋</h1>
 
 <p align="center">
@@ -13,7 +15,9 @@
   <a href="mailto:abhishekjaiswar.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
-I build full-stack products that hold up at scale — enterprise dashboards crunching tens of thousands of records, real-time apps wiring together video, chat, and AI in the background, and side projects that go from idea to deployed without losing polish along the way. I care about clean state management, fast UIs, and APIs that behave exactly the way they promise to.
+<br/>
+
+<p align="center">I build full-stack products that hold up at scale — enterprise dashboards crunching tens of thousands of records, real-time apps wiring together video, chat, and AI in the background, and side projects that go from idea to deployed without losing polish along the way. I care about clean state management, fast UIs, and APIs that behave exactly the way they promise to.</p>
 
 ---
 
