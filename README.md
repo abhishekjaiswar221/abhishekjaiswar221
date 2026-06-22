@@ -27,15 +27,23 @@ I build full-stack products that hold up at scale — enterprise dashboards crun
 
 **Frameworks & Libraries**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,tailwind,bootstrap,springboot" alt="Frameworks & Libraries" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express,tailwind,bootstrap,materialui,spring" alt="Frameworks & Libraries" />
 
-**Databases**
+**Databases & ORM**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma" alt="Databases & ORM" />
 
-**Tools & Platforms**
+**Version Control & Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=docker,git,postman,vercel,gcp" alt="Tools & Platforms" />
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,docker,vercel,gcp,cloudflare" alt="Version Control & Cloud" />
+
+**Build Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=vite,rollupjs" alt="Build Tools & OS" />
+
+**IDEs, Design & Productivity**
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,webstorm,idea,eclipse,postman,figma,notion,obsidian" alt="IDEs, Design & Productivity" />
 
 **Also working with**
 <br/>
