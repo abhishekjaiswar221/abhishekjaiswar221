@@ -1,6 +1,6 @@
 <img src="./image/banner.png" alt="Banner Image" width="100%" />
 
-<h2 align="center">Hi, I'm Abhishek&nbsp;Jaiswar 👋</h2>
+<h1 align="center">Hi, I'm Abhishek&nbsp;Jaiswar 👋</h1>
 
 <p align="center">
   <a href="https://github.com/abhishekjaiswar221">
@@ -66,6 +66,6 @@ I build full-stack products that hold up at scale — enterprise dashboards crun
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-<p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ⋆⋅☆⋅⋆ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
+<p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ⋆⋅☆⋅⋆ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
 
 <p align="center"><b>🌱 Always learning, always building.</b></p>
