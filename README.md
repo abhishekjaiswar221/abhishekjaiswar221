@@ -1,5 +1,3 @@
-<img src="./image/banner.png" alt="Banner Image" width="100%" />
-
 <h1 align="center">Hi, I'm Abhishek&nbsp;Jaiswar 👋</h1>
 
 <p align="center">
