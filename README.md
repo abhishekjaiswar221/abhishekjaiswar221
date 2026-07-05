@@ -10,8 +10,8 @@
 
 <p align="center">
   <a href="https://abhishekjaiswar.pages.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://x.com/abhishekjai221"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/abhishekjai221"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+  <a href="https://x.com/abhiwritescode"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jaiswar-abhishek"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
   <a href="mailto:abhishekjaiswar.work@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
 </p>
 
@@ -62,6 +62,6 @@
 ![Inngest](https://img.shields.io/badge/Inngest-0E0E0E?style=flat-square&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
-<p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯ ⋆⋅☆⋅⋆ ⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
+<p align="center">⎯⎯⎯⎯⎯⎯⎯⎯⎯ ⋆⋅☆⋅⋆ ⎯⎯⎯⎯⎯⎯⎯⎯⎯</p>
 
 <p align="center"><b>🌱 Always learning, always building.</b></p>
